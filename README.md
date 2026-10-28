@@ -2,7 +2,9 @@
 
 <h1 align="center"> I'm Atika</h1>
 <h3 align="center">🎨 Creative web enthusiast & digital creator ✨</h3>
-![Cute Cat GIF](https://media.giphy.com/media/JpG2A9M3dPHXTMBCkz/giphy.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.org/octocat/Spoon-Knife/main/index.html" width="300" alt="GIF">
+</p>
 
 - 🔭 I’m currently working on **Exploring and practicing web development**
 
