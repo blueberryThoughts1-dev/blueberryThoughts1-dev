@@ -2,6 +2,7 @@
 
 <h1 align="center"> I'm Atika</h1>
 <h3 align="center">🎨 Creative web enthusiast & digital creator ✨</h3>
+<img src="https://media.giphy.com/media/JpG2A9M3dPHXTMBCkz/giphy.gif" width="300" alt="Cute Cat GIF">
 
 - 🔭 I’m currently working on **Exploring and practicing web development**
 
