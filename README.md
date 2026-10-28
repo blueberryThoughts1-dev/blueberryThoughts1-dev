@@ -2,8 +2,8 @@
 
 <h1 align="center"> I'm Atika</h1>
 <h3 align="center">🎨 Creative web enthusiast & digital creator ✨</h3>
-<p align="right">
-  <img src="https://i.pinimg.com/originals/79/a5/71/79a571a0cb6cf78275692712c4216999.gif" width="250" style="border-radius: 50%; box-shadow: 0 0 15px rgba(255, 255, 255, 0.8);" alt="Round Glow GIF">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/79/a5/71/79a571a0cb6cf78275692712c4216999.gif" width="250" style="border-radius: 50; box-shadow: 0 0 15 px  rgba (128, 128, 128, 0.8);" alt="Round Glow GIF">
 </p>
 
 - 🔭 I’m currently working on **Exploring and practicing web development**
